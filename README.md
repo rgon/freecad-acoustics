@@ -12,7 +12,7 @@
 # TODO
 ## Stage 0: Boilerplate
 + [x] Concept definition: create some kind of parametric waveguide script
-+ [ ] Implement as freeCAD workbench / easy updating / CICD -> don't require copying and pasting a macro.
++ [ ] Implement as freeCAD workbench / easy updating / CICD -> don't require copying and pasting a macro. NOTE: modify the .ai/INSTRUCTIONS.md file with any relevant CICD changes.
 
 ## Stage 1: Waveguide definition
 Because being in the ballpark is not the same as being mathematically correct.
